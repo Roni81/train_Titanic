@@ -5,3 +5,6 @@
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
+## Kaggel Score
+![Tensorflow](https://github.com/Roni81/train_Titanic/assets/69832534/f4434a88-0e58-4f6a-afae-daab88824e80)
+
